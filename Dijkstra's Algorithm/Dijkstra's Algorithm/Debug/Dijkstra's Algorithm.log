@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\luke\desktop\2\data structures\dijkstra's algorithm\dijkstra's algorithm\main.cpp(65): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke\desktop\2\data structures\dijkstra's algorithm\dijkstra's algorithm\main.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\luke\desktop\2\data structures\dijkstra's algorithm\dijkstra's algorithm\main.cpp(104): warning C4018: '<': signed/unsigned mismatch
+  Dijkstra's Algorithm.vcxproj -> C:\Users\Luke\Desktop\2\Data structures\Dijkstra's Algorithm\Debug\Dijkstra's Algorithm.exe
